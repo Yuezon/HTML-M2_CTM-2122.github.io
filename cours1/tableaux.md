@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-	<title>Tableaux</title>
+	
 	<meta charset="UTF-8">
 	<style>
 		body{background-color:#bbf9f0;}
