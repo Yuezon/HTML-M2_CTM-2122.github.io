@@ -1,4 +1,5 @@
-[traitement de texte](traitement_texte.md) <br>
-[tableaux](tableaux.md) <br>
-[emploi du temps](edt.md)
+[Exercice 1 _ boites balises div](exercice.html) <br>
+[Exercice 2 _ boite contenant image](exercice2_boite_image.html) <br>
+[Exercice3_paramètres additionnels](exercice3.html)<br>
+[boites dégradé couleur](dégradés.html)
 
