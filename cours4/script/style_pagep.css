@@ -1,0 +1,17 @@
+/* CSS commentaire */
+
+
+body {
+	background-color:#F5F7CD;
+}
+
+
+.boite_code {
+	background-color:#ffffff;
+	margin-bottom: 15px;
+	width:auto;
+	height:auto;
+	padding: 10px; /* s'additionne à width */
+	float: left; /* permet de mettre les boîtes côtes-à-côtes */
+	
+}
