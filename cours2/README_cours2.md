@@ -1,3 +1,3 @@
-[les formulaires](formulaires.md) <br>
-[les liens](liens.md) <br>
+[les formulaires](formulaires.html) <br>
+[les liens](liens.html) <br>
 
