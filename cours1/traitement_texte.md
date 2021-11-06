@@ -1,8 +1,7 @@
 
 <html>
 <head>
-	
-	<title>Traitement de texte</title>
+
 	<meta charset="UTF-8">
 </head>
 <body>
