@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>boîte à image</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="script/style.css">
+</head>
+<body>
+<h1>Les boîtes à image</h1>
+<div class="contenu">
+<h2>UN CRAPÔ</h2>
+<figure><img src="images/gamabunta.jpg" alt="gamabunta" width="400px"><figcaption>GAMABUNTA</figcaption></figure>
+<p>Gamabunta is a grumpy, stubborn and highly apathetic toad. He does not like to take orders from anyone, unless the summoner is highly talented and earns his respect. Jiraiya, Minato, and Naruto are three of the few people that he has allowed to ride on top of his head without question. While he is quite confident of his abilities as a fighter, he is well aware of his limitations and perceptive of the power of his enemies, shown in his apprehension when confronting Shukaku head-on. </p>
+
+<p>He speaks in Hiroshima dialect and uses some Japanese words that only a yakuza gangster would use, but he is portrayed as an ultimately powerful and positive force. He is fiercely protective of his kind, where in one instant only decided to fight Shukaku after hearing the opponent attacked his children despite believing it to be suicidal only moments before. He hates to be underestimated by anyone, both of which take precedence over his normal apathy. Often, it is one or a combination of these two factors that entices him to fight.</p>
+
+<p>Overall, despite his grumpy exterior, he shows sympathy to Naruto as if he were a son. He even explained to Jiraiya that he was aware of Naruto's talents and potential. He and Jiraiya seemed to be good friends and, as implied in the series, drinking buddies, despite Jiraiya's admitted lack of control over Gamabunta. However, he would scold him on occasion. </p>
+</div>
+</body>
+</html>
