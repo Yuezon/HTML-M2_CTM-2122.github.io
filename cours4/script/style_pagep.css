@@ -40,6 +40,18 @@ body {
 
 }
 
+.fds {
+	background-color:#ffffff;
+	border:#ff0000 solid 3px;
+	border-radius:10px;
+	margin: 10px;
+	width:auto;
+	height:auto;
+	padding: 10px; /* s'additionne à width */
+	float:left;
+
+}
+
 
 
 .clear { /* Pour éviter que des div flottants passent par dessus une autre zone */
