@@ -1,7 +1,7 @@
-
+<!doctype html>
 <html>
 <head>
-
+	<title>Les liens</title>
 	<meta charset="UTF-8">
 	<style>
 	body {background-color:#c3ebee;}
