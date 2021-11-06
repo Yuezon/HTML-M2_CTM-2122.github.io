@@ -24,3 +24,7 @@ body {
 	float:left;
 
 }
+
+.clear { /* Pour éviter que des div flottants passent par dessus une autre zone */
+	clear:both;
+}
