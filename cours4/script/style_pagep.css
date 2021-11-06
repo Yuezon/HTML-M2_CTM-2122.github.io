@@ -7,8 +7,8 @@ body {
 
 .idontkare
 {
-	background-color:#00ff00;
-	margin-bottom: 15px;
+	
+	margin: 10px;
 	width:auto;
 	height:auto;
 	padding: 10px; /* s'additionne à width */
@@ -17,13 +17,30 @@ body {
 }
 .boite_code {
 	background-color:#ffffff;
-	margin-bottom: 15px;
+	border-color:#000000;
+	border-radius:10px;
+	margin: 10px;
 	width:auto;
 	height:auto;
 	padding: 10px; /* s'additionne à width */
 	float:left;
 
 }
+
+.boite_code:hover {
+	color:#ffffff;
+	background-color:#000000;
+	border-color:#ffffff;
+	border-radius:10px;
+	margin: 10px;
+	width:auto;
+	height:auto;
+	padding: 10px; /* s'additionne à width */
+	float:left;
+
+}
+
+
 
 .clear { /* Pour éviter que des div flottants passent par dessus une autre zone */
 	clear:both;
