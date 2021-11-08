@@ -1,0 +1,47 @@
+/* CSS commentaire */
+body {
+	background-color: #d7fafa;
+}
+h1 {
+	color:#3893e9;
+	font-size:33pt;
+}
+h2 {
+	color:#9aa026;
+	font-size:15pt;
+	font-style: italic;
+}
+img {
+	width:250px;
+}
+/*début du menu*/
+.menu {list-style-type: none;} /*je retire les puces*/
+.menu li a {
+	background-color:#469b75;
+	color:#f0f0a9;
+	text-decoration: none;
+	padding:10px;
+	display: block;
+	width: 250px;
+	border-bottom:#f0f0a9 solid 2px;
+	transition: all ease 0.5s;
+}
+.menu li a:hover{
+	background-color:#8ea7a7;
+	color:#FFFFFF;
+	width:270px;
+}
+/*fin du menu */
+.bleufonce{color:#2a6d7d;}
+.violet{color:#6c33bf;}
+.carre{list-style-type:square;}
+.abc{list-style-type:lower-roman;}
+.keur{list-style-type: none;}
+.keur li:before{
+	content:"♥";
+	color:#FF0000;
+}
+.keur li li:before{
+	content:"♥";
+	color:#00FF00;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>page d'accueil</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1>Page d'acceuil</h1>
+<ul class="menu">
+<li><a href="#">Accueil</a></li>
+<li><a href="images.html">Images</a></li>
+<li><a href="textes/listes.html">Listes</a></li>
+<li><a href="textes/texte.html">Texte</a></li>
+</ul>
+
+<h2>Vidéos</h2>
+<h3>Vidéos embarquées</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/227YVwoFQAA?start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/RzClCJFpSoM?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<h3>avec la balise &lt; video &gt; </h3>
+<video controls width="400px">
+<source src="../suicide cat.mp4" type="video/mp4">
+<source src="../suicide cat.ogg" type="video/ogg">
+<source src="../suicide cat.webm" type="video/webm">
+</video>
+</body>
+</html>
