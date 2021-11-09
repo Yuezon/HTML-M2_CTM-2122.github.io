@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exercice sur FLEX axe secondaire</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="script/style.css">
+</head>
+<body>
+<h1>Flex : axe secondaire</h1>
+<p>valeur par défaut</p>
+
+<div class="container04">
+<div class="item"><p>Bloc 01<br> 
+Bloc 01<br> 
+Bloc 01<br> 
+Bloc 01</p> </div>
+<div class="item">Bloc 02</div>
+<div class="item"><p>Bloc 03<br> 
+Bloc 03<br> 
+Bloc 03<br> 
+Bloc 03</p> </div>
+<div class="item">Bloc 04</div>
+</div>
+
+<div class="clear"></div>
+
+<div class="container05">
+<div class="item"><p>Bloc 01<br> 
+Bloc 01<br> 
+Bloc 01<br> 
+Bloc 01</p> </div>
+<div class="item">Bloc 02</div>
+<div class="item"><p>Bloc 03<br> 
+Bloc 03<br> 
+Bloc 03<br> 
+Bloc 03</p> </div>
+<div class="item">Bloc 04</div>
+</div>
+
+<div class="clear"></div>
+
+<div class="container06">
+<div class="item"><p>Bloc 01<br> 
+Bloc 01<br> 
+Bloc 01<br> 
+Bloc 01</p> </div>
+<div class="item">Bloc 02</div>
+<div class="item"><p>Bloc 03<br> 
+Bloc 03<br> 
+Bloc 03<br> 
+Bloc 03</p> </div>
+<div class="item">Bloc 04</div>
+<div class="item"><p>Bloc 05<br> 
+Bloc 05<br> 
+Bloc 05<br> 
+Bloc 05</p> </div>
+<div class="item">Bloc 06</div>
+</div>
+
+<h2>Réglage des éléments enfants</h2>
+<h3>Order</h3>
+
+<div class="container07">
+<div class="itema"> Bloc 01</div>
+<div class="itema">Bloc 02</div>
+<div class="itema"> Bloc 03</div>
+<div class="itema">Bloc 04</div>
+<div class="itema"> Bloc 05</div>
+<div class="itema">Bloc 06</div>
+</div>
+
+</body>
+</html>

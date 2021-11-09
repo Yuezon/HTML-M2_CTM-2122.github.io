@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Genre de menu</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="script/style_2.css">
+</head>
+<body>
+
+<div class="containerA">
+
+<div class="itema">boite 1</div>
+<div class="itemb">boite 2</div>
+</div>
+
+<div class="containerB"> 
+
+<div class="itemg"> Grosse boite</div>
+
+<div class="itemb"> boite 4 </div>
+<div class="itemb"> boite 5</div>
+<div class="itemb"> boite 6</div>
+
+</div>
+
+<div class="containerC">
+<div class="itemc"> boite 7</div>
+</div>
+
+</body>
+</html>
