@@ -1,0 +1,73 @@
+/*CSS */
+
+body {
+	background-color: #C8CFC3;
+	background-image: url(../images/cloud.png);
+	background-size: 50px;
+	background-repeat: repeat-y;
+	background-position: center;
+}
+
+/* CONTAINER A */
+.containerA {
+	background-color: #FFFFFF;
+	padding:10px;
+	display:flex;
+}
+
+.itema {
+	background-color: #D0CDB1;
+	padding:10px;
+	margin:3px;
+	width:400px;
+	flex-grow:0;
+}
+
+.itemb {
+	background-color: #D0CDB1;
+	padding:10px;
+	margin:3px;
+	flex-grow: 1
+}
+
+/* CONTAINER B */
+.containerB {
+	background-color: #FFFFFF;
+	padding:10px;
+	display:flex;
+	flex-direction: column;
+	height:200px;
+	flex-wrap: wrap;
+}
+
+.itemg {
+	background-color: #D0CDB1;
+	padding:10px;
+	margin:3px;
+	height:200px;
+}
+
+.itemb {
+	background-color: #D0CDB1;
+	padding:10px;
+	margin:3px;
+}
+
+/* CONTAINER C */
+.containerC {
+	background-color: #FFFFFF;
+	padding:10px;
+	display:flex;
+}
+
+.itemc {
+	background-color: #D0CDB1;
+	padding:10px;
+	margin:3px;
+	flex-grow:1;
+}
+
+/* CLEAR */
+.clear {
+	clear:both;
+}
